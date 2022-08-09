@@ -5,7 +5,7 @@ const maybe = sumOfNumbers === undefined ? test.skip : test;
 
 maybe('Challenge - 1 : my sumNumbers function can sum an array of numbers', () => {
     const numbers = [
-        689,
+        68,
         -68,
         27,
         94,
