@@ -50,3 +50,5 @@ maybe('Challenge - 3 : my celsiusToFahrenheit function can convert an array of t
     ];
     expect(celsiusToFahrenheit(numbers)).toEqual(converted);
 });
+
+new array =["235", "738" , "1004"]
