@@ -7,7 +7,7 @@ maybe('Challenge - 1 : my sumNumbers function can sum an array of numbers', () =
     const numbers = [
         68,
         68,
-        27,
+        27, 
         94,
         72,
         25,
@@ -28,3 +28,5 @@ maybe('Challenge - 1 : my sumNumbers function can sum an array of numbers', () =
     ];
     expect(sumOfNumbers(numbers)).toBe(75);
 });
+
+hello 
